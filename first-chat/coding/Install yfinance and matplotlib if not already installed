@@ -1,0 +1,2 @@
+# Install yfinance and matplotlib if not already installed
+pip install -qqq yfinance matplotlib
