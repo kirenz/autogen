@@ -31,6 +31,8 @@ Here is the final plot I have received:
 
 ![](/first-chat/Figure_1.png)
 
+The entire process only cost approximately $0.02.
+
 ---
 
 Below is the complete protocol of this chat:
