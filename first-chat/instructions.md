@@ -1,8 +1,11 @@
 # Instructions
 
+Note that this tutorial follows the [local execution example](https://microsoft.github.io/autogen/docs/Getting-Started) from the official documentation to enable result comparison.
+
+
 1. Set up your working environment as described in [README.md](../README.md) and activate the Anaconda environment `autogen`.
 
-2. Open your terminal and run the `first-chat.py` file:
+2. Open your terminal, navigate to the directory where your file `first-chat.py` is stored and run:
 
 ```bash
 python first-chat.py
